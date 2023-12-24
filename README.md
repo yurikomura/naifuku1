@@ -1,24 +1,37 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション名
+内服時間のお知らせアプリ
 
-Things you may want to cover:
+# アプリケーション概要
+高齢者にリマインダー機能またはメールで内服時間をお知らせをし、内服忘れを防止することにつなげる。
+また内服したら、第三者に通知されるようにし、コミュニケーションの維持、異常の早期発見につなげる。
 
-* Ruby version
+# URL
 
-* System dependencies
+# テスト用アカウント
 
-* Configuration
+# 利用方法
+1.トップページ(一覧ページ)のヘッダーからユーザー新規登録を行う。
+2.登録機能から内服回数と内服時間を登録する。
 
-* Database creation
+# アプリケーションを作成した背景
+高齢者に内服忘れが多い印象を受けている。
+認知機能の低下や日常生活の繰り返しなどが原因として考えられる。
+高齢者もスマホ所有率が高くなっている。
+そこで、内服時間になったらリマインダーまたはメールでお知らせをするととができないかと考えた。
+また内服したことを第三者に通知することでコミュニケーションの維持が異常の早期発見につながると思い開発することにした。
 
-* Database initialization
+# 洗い出した要件
+要件を定義したシート
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 実装した機能についての画像やGIFおよびその説明※
+# 実装予定の機能
+# 実装予定の機能
+# 画面遷移図
+# 開発環境
+# ローカルでの動作方法
+# 工夫したポイント
+# 改善点
+# 制作時間
+ 
